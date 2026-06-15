@@ -60,7 +60,9 @@ void loop()
 
 ### Manual installation (ZIP)
 
-1. Download this repository as a ZIP-file
+1. Download the repository and extract the library zip-file
+     or
+   only download the library zip-file "HardwareSerial_v00x.zip"
 2. Open Arduino IDE  
 3. Go to:
 
